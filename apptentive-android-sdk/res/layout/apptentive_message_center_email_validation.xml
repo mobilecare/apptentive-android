@@ -11,21 +11,20 @@
             android:layout_height="fill_parent"
             android:paddingLeft="@dimen/apptentive_dialog_side_padding"
             android:paddingRight="@dimen/apptentive_dialog_side_padding">
-    <LinearLayout android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
                   android:orientation="vertical"
                   android:padding="16dp"
-                  android:background="@drawable/apptentive_dialog_background">
+                  android:background="@drawable/apptentive_dialog_background_with_border">
         <TextView android:id="@+id/title"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
-                  android:layout_marginBottom="16dp"
+                  android:layout_marginBottom="6dp"
                   style="@style/ApptentiveInteractionDialogTitle"
                   android:text="@string/apptentive_dialog_email_validation_failed_title"/>
         <TextView android:id="@+id/body"
                   android:layout_width="fill_parent"
                   android:layout_height="wrap_content"
-                  android:layout_marginBottom="24dp"
+                  android:layout_marginBottom="9dp"
                   style="@style/ApptentiveInteractionDialogBody"
                   android:text="@string/apptentive_dialog_email_validation_failed_body"/>
         <LinearLayout android:layout_width="fill_parent"
@@ -34,10 +33,10 @@
                       android:orientation="horizontal">
             <Button android:id="@+id/ok"
                     android:layout_width="wrap_content"
-                    android:layout_height="48dp"
+                    android:layout_height="40dp"
                     style="@style/ApptentiveInteractionPositiveButton"
                     android:minEms="6"
-                    android:text="@string/apptentive_ok"/>
+                    android:text="@string/apptentive_understood"/>
         </LinearLayout>
     </LinearLayout>
 </ScrollView>

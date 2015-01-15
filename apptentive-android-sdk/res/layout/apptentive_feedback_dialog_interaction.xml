@@ -117,13 +117,13 @@
                                 android:layout_marginRight="4dp"
                                 style="@style/ApptentiveInteractionNegativeButton"
                                 android:text="@string/apptentive_thank_you_dialog_close"/>
-                        <Button android:id="@+id/thank_you_view_messages"
-                                android:layout_width="0dp"
-                                android:layout_height="40dp"
-                                android:layout_weight="1"
-                                android:layout_marginLeft="4dp"
-                                style="@style/ApptentiveInteractionPositiveButton"
-                                android:text="@string/apptentive_thank_you_dialog_view_messages"/>
+<!--                         <BUTTON ANDROID:ID="@+ID/THANK_YOU_VIEW_MESSAGES" -->
+<!--                                 ANDROID:LAYOUT_WIDTH="0DP" -->
+<!--                                 ANDROID:LAYOUT_HEIGHT="40DP" -->
+<!--                                 ANDROID:LAYOUT_WEIGHT="1" -->
+<!--                                 ANDROID:LAYOUT_MARGINLEFT="4DP" -->
+<!--                                 STYLE="@STYLE/APPTENTIVEINTERACTIONPOSITIVEBUTTON" -->
+<!--                                 ANDROID:TEXT="@STRING/APPTENTIVE_THANK_YOU_DIALOG_VIEW_MESSAGES"/> -->
                     </LinearLayout>
                 </LinearLayout>
             </FrameLayout>

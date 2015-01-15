@@ -7,25 +7,25 @@
 <resources>
     <string name="apptentive_understood">Entendi</string>
     <string name="apptentive_ok">OK</string>
-    <string name="apptentive_yes">Yes</string>
-    <string name="apptentive_no">No</string>
+    <string name="apptentive_yes">Sim</string>
+    <string name="apptentive_no">Não</string>
     <string name="apptentive_skip">Skip</string>
     <string name="apptentive_you">You</string>
     <string name="apptentive_developer">Developer</string>
     <string name="apptentive_oops">Oops!</string>
-    <string name="apptentive_send">Send</string>
+    <string name="apptentive_send">Enviar</string>
     <string name="apptentive_give_feedback">Give Feedback</string>
-    <string name="apptentive_thanks">Thanks!</string>
-    <string name="apptentive_no_thanks">No thanks</string>
-    <string name="apptentive_thank_you">Thank You</string>
-    <string name="apptentive_were_sorry">We\'re Sorry!</string>
+    <string name="apptentive_thanks">Obrigado.</string>
+    <string name="apptentive_no_thanks">Descartar</string>
+    <string name="apptentive_thank_you">Que ótimo! Obrigado!</string>
+    <string name="apptentive_were_sorry">Desculpe.</string>
     <string name="apptentive_required">Required</string>
     <string name="apptentive_optional">Optional</string>
     <string name="apptentive_sending">Sending…</string>
     <string name="apptentive_version">Apptentive Version %s</string>
 
-    <string name="apptentive_edittext_hint_email">Your Email Address</string>
-    <string name="apptentive_edittext_hint_email_required">Email Address (required)</string>
+    <string name="apptentive_edittext_hint_email">E-mail</string>
+    <string name="apptentive_edittext_hint_email_required">Email obrigatório</string>
 
     <string name="apptentive_powered_by_apptentive">Powered by Apptentive</string>
     <string name="apptentive_about_title">About Apptentive</string>
@@ -34,22 +34,22 @@
     <string name="apptentive_about_privacy">Your feedback is hosted by Apptentive and is subject to Apptentive\'s privacy policy and the privacy policy of the developer of this app.</string>
     <string name="apptentive_about_privacy_link">Visit Apptentive\'s Privacy Policy</string>
 
-    <string name="apptentive_do_you_love_this_app">Do you like %s?</string>
+    <string name="apptentive_do_you_love_this_app">Está feliz com o %s?</string>
 
-    <string name="apptentive_rating_message_fs">We\'re so happy to hear that you love %s! It\'d be really helpful if you rated us. Thanks so much for spending some time with us.</string>
-    <string name="apptentive_rate_this_app">Rate %s</string>
-    <string name="apptentive_rating_remind">Remind Me Later</string>
+    <string name="apptentive_rating_message_fs">Ficamos felizes em saber que você está gostando do %s! Nos ajude a construir um app cada vez melhor.</string>
+    <string name="apptentive_rate_this_app">Avaliar com 5 estrelas</string>
+    <string name="apptentive_rating_remind">Lembrar depois</string>
     <string name="apptentive_rating_error">We\'re unable to find this app in the store. Please visit the store to find and rate it.</string>
 
     <string name="apptentive_intro_dialog_title_no_love">@string/apptentive_were_sorry</string>
     <string name="apptentive_intro_dialog_title_default">Thanks for your feedback!</string>
-    <string name="apptentive_intro_dialog_body">Please let us know how to make %s better for you!</string>
-    <string name="apptentive_intro_dialog_edittext_hint">Tell us how we can help. (required)</string>
+    <string name="apptentive_intro_dialog_body">Por favor, nos ajude a melhorar o %s.</string>
+    <string name="apptentive_intro_dialog_edittext_hint">Comentário</string>
 
-    <string name="apptentive_thank_you_dialog_body">Your response has been saved in the Message Center, where you\'ll be able to view replies and send us other messages.</string>
-    <string name="apptentive_thank_you_dialog_body_message_center_disabled">Thank you for your feedback!</string>
+    <string name="apptentive_thank_you_dialog_body">Seus comentários nos ajudarão a construir um app cada vez melhor!</string>
+    <string name="apptentive_thank_you_dialog_body_message_center_disabled">Por favor, nos ajude a melhorar o Apps Clube.</string>
     <string name="apptentive_thank_you_dialog_body_message_center_disabled_email_required">We\'ll be in touch via email.</string>
-    <string name="apptentive_thank_you_dialog_close">Close</string>
+    <string name="apptentive_thank_you_dialog_close">Fechar</string>
     <string name="apptentive_thank_you_dialog_view_messages">View Messages</string>
 
     <string name="apptentive_dialog_email_validation_failed_title">E-mail inválido</string>
